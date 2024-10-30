@@ -462,7 +462,7 @@ pluralizelisttitles = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
     about_us = "<p>Performance, Security and Agility for your Cloud.</p>"
-    copyright = "Copyright (c) 2020 - 2022, WiseCorp; all rights reserved."
+    copyright = "Copyright (c) 2020 - 2024, WiseCorp; all rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -476,8 +476,8 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Wisecorp Ltd.</strong>
-        <br>1, Rue Gabès
-        <br>2080 Ariana - Tunis
+        <br>26
+        <br>Ch
         
       </p>
       """
@@ -488,7 +488,7 @@ pluralizelisttitles = false
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +216 98 119 729 or info@wisecorp.tn.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us on +33 or info@wisecorp.fr.</p>
       <p class="hidden-md hidden-lg"><a href="tel:+216 98 119 729" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
       <a href="mailto:info@wisecorp.tn" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>

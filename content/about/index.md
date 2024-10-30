@@ -27,7 +27,7 @@ We are building an innovative technology that we believe to push the boundaries 
 We also perform IT consulting for key account customers in Europe. For our team, our experts provide a very high level of training to the team, covering Cloud, Security, Networks, and DevOps technologies.
 
 ### Where are we?
-Our office is based in Ariana, Tunisia. But our team is international (France, Canada, Tunisia)
+Our office is based in France. But our team is international (France, Canada, Tunisia)
 
 ### What did we perform yet?
 We have already developed a smart cloud-native and microservices architecture for orchestration of any application/workload over a Kubernetes platform.
@@ -72,7 +72,7 @@ We look also to develop our consulting activity by hiring consultants, to work o
 
 ### Why join us?
 
-- To evolve with a fast-growing tunisian-international start-up
+- To evolve with a fast-growing start-up
 
 - To make use of cutting-edge technologies, and have a high level training
 

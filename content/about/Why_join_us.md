@@ -3,7 +3,7 @@ title ="Why join us ?"
 tags = []
 categories = []
 +++
-- To evolve with a fast-growing tunisian-international start-up
+- To evolve with a fast-growing start-up
 
 - To make use of cutting-edge technologies, and have a high level training
 
