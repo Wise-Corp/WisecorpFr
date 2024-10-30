@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nizar Tlili on Wisecorp</title>
+    <link>http://localhost:34313/authors/nizar-tlili/</link>
+    <description>Recent content in Nizar Tlili on Wisecorp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:34313/authors/nizar-tlili/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compute Acceleration for the Cloud</title>
+      <link>http://localhost:34313/rd/compute_acceleration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/rd/compute_acceleration/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>Consulting Services</title>
+      <link>http://localhost:34313/services/consulting_services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/services/consulting_services/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>Cybercaisse Tunisie</title>
+      <link>http://localhost:34313/partners/cybercaisse_tunisie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/partners/cybercaisse_tunisie/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>http://localhost:34313/services/development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/services/development/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>Global Services Informatique</title>
+      <link>http://localhost:34313/partners/global_services_informatique/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/partners/global_services_informatique/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>Inoverna France</title>
+      <link>http://localhost:34313/partners/inoverna_france/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/partners/inoverna_france/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>Service Reliability</title>
+      <link>http://localhost:34313/services/service_reliability/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/services/service_reliability/</guid>
+      <description>Under development</description>
+    </item>
+    
+    <item>
+      <title>under development</title>
+      <link>http://localhost:34313/products/under_development/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/products/under_development/</guid>
+      <description>Under development</description>
+    </item>
+    
+  </channel>
+</rss>

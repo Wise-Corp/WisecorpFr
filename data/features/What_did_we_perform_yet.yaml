@@ -1,0 +1,5 @@
+weight: 3
+name: "What did we perform yet"
+icon: "fas fa-globe"
+url: ""
+description: " We have already developed a smart cloud-native and microservices architecture for orchestration of any application/workload over a Kubernetes platform. "

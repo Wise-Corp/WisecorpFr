@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Wisecorp</title>
+    <link>http://localhost:34313/about/</link>
+    <description>Recent content in About on Wisecorp</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://localhost:34313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What are we looking for ?</title>
+      <link>http://localhost:34313/about/what_are_we_looking/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/about/what_are_we_looking/</guid>
+      <description>We are looking create a team of motivated talents, to work on our new product.
+We look also to develop our consulting activity by hiring consultants, to work on our innovative projects for our international customers.</description>
+    </item>
+    
+    <item>
+      <title>What did we perform yet ?</title>
+      <link>http://localhost:34313/about/what_did/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/about/what_did/</guid>
+      <description>We have already developed a smart cloud-native and microservices architecture for orchestration of any application/workload over a Kubernetes platform.
+Our solution, named TheCell, is capable of orchestrating on-premise and-or private/hybrid/public cloud platform, and even of mixing all of that.</description>
+    </item>
+    
+    <item>
+      <title>What didn’t we perform yet ?</title>
+      <link>http://localhost:34313/about/what_didn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/about/what_didn/</guid>
+      <description>We are working hard to develop our first Hardware Cell, in order to prove the validity of our Concept.
+In fact, we believe that Hardware Acceleration is going Cloud-Native. So we are building a PoC where a BigData problem is handled in a HW-accelerated platform, thanks to a PaaS approach, in our Cloud-based platform.
+This PoC will not only validate a huge innovation, but will also make us a pioneer and a main actor in this new Hardware-Cloud Convergence.</description>
+    </item>
+    
+    <item>
+      <title>What do we do ?</title>
+      <link>http://localhost:34313/about/what_do_we_do/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/about/what_do_we_do/</guid>
+      <description>We are building an innovative technology that we believe to push the boundaries and simplify the use of very large Computing power, thanks to a smarter use of FPGA and to a Cloud-Native, MicroServices-based Architecture.
+We also perform IT consulting for key account customers in Europe. For our team, our experts provide a very high level of training to the team, covering Cloud, Security, Networks, and DevOps technologies.</description>
+    </item>
+    
+    <item>
+      <title>Who We Are ?</title>
+      <link>http://localhost:34313/about/who_are_we/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/about/who_are_we/</guid>
+      <description>We are a team of technology enthousiasts, having experience in Information Technology, Electronics, Internet &amp;amp; Cloud Infrastructures, DevOps and Software Design. We have also a very strong partnership with a French security consulting company, that is already making use of our technology, and expanding its activity with us.</description>
+    </item>
+    
+    <item>
+      <title>Why join us ?</title>
+      <link>http://localhost:34313/about/why_join_us/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:34313/about/why_join_us/</guid>
+      <description>  To evolve with a fast-growing tunisian-international start-up
+  To make use of cutting-edge technologies, and have a high level training
+  To prepare for an international carreer and a very high-demand expertise
+  To grow with us : we propose stock options and managing roles for early-joiners
+  </description>
+    </item>
+    
+  </channel>
+</rss>
