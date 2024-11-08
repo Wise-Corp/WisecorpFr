@@ -476,8 +476,8 @@ pluralizelisttitles = false
     logo_small = "img/logo-small.png"
     contact_url = "/contact"
     address = """<p class="text-uppercase"><strong>Wisecorp Ltd.</strong>
-        <br>26
-        <br>Ch
+        <br>26 Avenue de Paris
+        <br>Chatillon
         
       </p>
       """
